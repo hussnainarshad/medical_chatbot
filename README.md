@@ -1,5 +1,5 @@
 # medical_chatbot
 
-<h2>pip intall -r requiremnts.txt</h2>
+<p>pip intall -r requiremnts.txt</p>
 
-<h2>read Documentation.txt</h2>
+<p>read Documentation.txt</p>
